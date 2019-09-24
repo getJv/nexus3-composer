@@ -3,7 +3,7 @@ Nexus3 with Composer plugin
 
 Docker image for nexus3 repository manager with composer plugin.
 
-[Visit the tutorial Guide to use instructions](http://XXXXXX)
+[Visit the tutorial Guide to use instructions](https://medium.com/@jhonatanvinicius/nexus3-with-composer-plugin-a621139d9fd0)
 
 References
 ----------
